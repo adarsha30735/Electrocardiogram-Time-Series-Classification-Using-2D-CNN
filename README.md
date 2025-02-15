@@ -52,6 +52,10 @@ In this part, we will perform pre-processing on the ECG dataset to prepare it fo
 
 ## Part 3: CNN Training and Evaluation
 
+
+<p align="center">
+  <img src="training.png" alt="Scalogram" />
+</p>
 In this part, we will perform CNN training and evaluate the results. This task will be conducted together during the lecture class on **November 5th**.
 
 1. **Lecture: CNN Training and Evaluation**
