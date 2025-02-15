@@ -32,6 +32,18 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 
 3. Submit the obtained waveform as a PDF, screenshot, or image file.
 
+## Part 2: Preprocessing and Wavelet Analysis
+
+In this part, we will perform pre-processing on the ECG dataset to prepare it for CNN training. This task will be conducted together during the lecture class on **October 31st**.
+
+1. **Classify Time Series Using Wavelet Analysis and Deep Learning**
+
+   - **[Classify Time Series Using Wavelet Analysis and Deep Learning.pptx](Classify%20Time%20Series%20Using%20Wavelet%20Analysis%20and%20Deep%20Learning.pptx)**
+
+2. After completing the wavelet analysis, **submit a Word file** that includes all your MATLAB codes and the scalogram figure with **1000 samples**.
+
+3. Do not delete any codes or files from your computer, as we will continue with the CNN training in the next lecture.
+
 ## Lecture Resources
 
 - **[Lecture -1 - Copy.pptx](Lecture%20-1%20-%20Copy%20(1).pptx)**
@@ -41,8 +53,4 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 For a deeper understanding of Convolutional Neural Networks (CNNs), refer to the following external resources:
 
 - [Introduction to CNN](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
-- [MIT Course Notes on CNNs](https://openlearninglibrary.mit.edu/assets/courseware/v1/41c7c4a6141b76b324055d56387570c0/asset-v1:MITx+6.036+1T2019+type@asset+block/notes_chapter_Convolutional_Neural_Networks.pdf)
-
----
-
-Feel free to reach out for any queries or assistance regarding the project.
+- [MIT Course Notes on CNNs](http
