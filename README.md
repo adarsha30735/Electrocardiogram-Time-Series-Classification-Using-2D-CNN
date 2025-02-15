@@ -38,7 +38,7 @@ In this part, we will perform pre-processing on the ECG dataset to prepare it fo
 
 1. **Classify Time Series Using Wavelet Analysis and Deep Learning**
 
-   - **[Classify Time Series Using Wavelet Analysis and Deep Learning.pptx](Classify%20Time%20Series%20Using%20Wavelet%20Analysis%20and%20Deep%20Learning.pptx)**
+   - **[Classify Time Series Using Wavelet Analysis and Deep Learning.pptx](./Classify%20Time%20Series%20Using%20Wavelet%20Analysis%20and%20Deep%20Learning.pptx)**
 
 2. After completing the wavelet analysis, **submit a Word file** that includes all your MATLAB codes and the scalogram figure with **1000 samples**.
 
@@ -46,11 +46,15 @@ In this part, we will perform pre-processing on the ECG dataset to prepare it fo
 
 ## Lecture Resources
 
-- **[Lecture -1 - Copy.pptx](Lecture%20-1%20-%20Copy%20(1).pptx)**
+- **[Lecture -1 - Copy.pptx](./Lecture%20-1%20-%20Copy%20(1).pptx)**
 
 ## External Resources
 
 For a deeper understanding of Convolutional Neural Networks (CNNs), refer to the following external resources:
 
 - [Introduction to CNN](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
-- [MIT Course Notes on CNNs](http
+- [MIT Course Notes on CNNs](https://openlearninglibrary.mit.edu/assets/courseware/v1/41c7c4a6141b76b324055d56387570c0/asset-v1:MITx+6.036+1T2019+type@asset+block/notes_chapter_Convolutional_Neural_Networks.pdf)
+
+---
+
+Feel free to reach out for any queries or assistance regarding the project.
