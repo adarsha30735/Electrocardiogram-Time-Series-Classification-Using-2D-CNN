@@ -32,6 +32,10 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 
 3. Submit the obtained waveform as a PDF, screenshot, or image file.
 
+<p align="center">
+  <img src="Scalogram.png" alt="Scalogram" />
+</p>
+
 ## Part 2: Preprocessing and Wavelet Analysis
 
 In this part, we will perform pre-processing on the ECG dataset to prepare it for CNN training. This task will be conducted together during the lecture class on **October 31st**.
