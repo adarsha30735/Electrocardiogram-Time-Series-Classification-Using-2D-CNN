@@ -34,7 +34,7 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 
 ## Lecture Resources
 
-- **Lecture -1 - Copy.pptx**
+- **Lecture -1 - Copy(1).pptx**
 
 ## External Resources
 
