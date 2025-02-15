@@ -25,16 +25,16 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 ## Step 3: Plot an ECG Waveform in MATLAB
 
 1. After downloading the dataset, you can visualize the ECG waveform in MATLAB using the following script:
-2. 
- - [ECG_Plot (1).m](ECG_Plot (1).m)
+
+   - **[ECG_Plot.m](ECG_Plot%20(1).m)**
 
 2. Run the script to generate the ECG waveform.
 
 3. Submit the obtained waveform as a PDF, screenshot, or image file.
 
 ## Lecture Resources
- - [Lecture -1 - Copy (1).pptx](Lecture -1 - Copy (1).pptx)
 
+- **[Lecture -1 - Copy.pptx](Lecture%20-1%20-%20Copy%20(1).pptx)**
 
 ## External Resources
 
