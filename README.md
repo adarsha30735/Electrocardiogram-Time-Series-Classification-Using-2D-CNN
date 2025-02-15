@@ -32,10 +32,6 @@ This project demonstrates the classification of electrocardiogram (ECG) time-ser
 
 3. Submit the obtained waveform as a PDF, screenshot, or image file.
 
-<p align="center">
-  <img src="Scalogram.png" alt="Scalogram" />
-</p>
-
 ## Part 2: Preprocessing and Wavelet Analysis
 
 In this part, we will perform pre-processing on the ECG dataset to prepare it for CNN training. This task will be conducted together during the lecture class on **October 31st**.
@@ -47,6 +43,16 @@ In this part, we will perform pre-processing on the ECG dataset to prepare it fo
 2. After completing the wavelet analysis, **submit a Word file** that includes all your MATLAB codes and the scalogram figure with **1000 samples**.
 
 3. Do not delete any codes or files from your computer, as we will continue with the CNN training in the next lecture.
+
+## Part 3: CNN Training and Evaluation
+
+In this part, we will perform CNN training and evaluate the results. This task will be conducted together during the lecture class on **November 5th**.
+
+1. **Lecture: CNN Training and Evaluation**
+
+   - **[Lecture_3_AI Project (Continue).pptx](./Lecture_3_AI%20Project%20(Continue).pptx)**
+
+2. After completing the CNN training and evaluation, **submit a Word or PDF file** that includes all your MATLAB codes and screenshots of the answers/figures specified in the slides.
 
 ## Lecture Resources
 
@@ -62,3 +68,9 @@ For a deeper understanding of Convolutional Neural Networks (CNNs), refer to the
 ---
 
 Feel free to reach out for any queries or assistance regarding the project.
+
+## Image Display
+
+<p align="center">
+  <img src="Scalogram.png" alt="Scalogram" />
+</p>
